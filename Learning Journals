@@ -9,8 +9,33 @@ Week2
 
 (Content Insights) I learned to use Joomla with the web hosting CloudAccess.net. I registered a free website https://nostress.joomla.com in joomla.org.
                    A website can be created by the management page https://nostress.joomla.com/administrator/. Without install Joomla on my local computer, the development process is simplified greatly.
-				           Creating and publishing a webpage becomes easier. Developers can focus on the website's content.
+		   Creating and publishing a webpage becomes easier. Developers can focus on the website's content.
                    Creating a webpage will use some features in Control Panel like Articles, Modules, Menus, etc. It's different from creating an HTML/CSS webpage. 	   
 
 (Career/Employability/Learning Insights) I spent more time exploring the management page of Joomla and found some useful resource links with screenshots. Searching for useful information is a required skill. 
                                          And much information is redundant. To find the key information quickly is essential. It's helpful to experiment while looking at the guide. 
+
+
+
+
+
+Week4
+(Learning Activities) I learned to install the Joomla development environment locally, create a website, and deploy it on SiteGround.
+
+(Resources/Links) https://documentation.mamp.info/en/MAMP-Windows/How-Tos/Joomla/
+                  http://migratetowp.com/faqs/how-to-export-my-joomla-content/
+		  https://www.joomlashack.com/blog/joomla-how-to/joomla-blog/
+		  https://www.siteground.com/tutorials/joomla/featured-articles/
+		  https://www.siteground.com/tutorials/joomla/move-copy/
+
+(Estimated Hours) 20 hours
+
+(Content Insights) I learned to install the Joomla locally. Firstly, I installed MAMP, then install the Joomla. MAMP will manage Apache Server and MySQL Server. For the website, I
+                   tried to create a category, blogs, and Featured Articles. Many Featured Articles can be displayed on a web page. Then I learned to deploy my website on SiteGround.
+		   The deployment process has five steps. The first step is to compress my local Joomla files to the zip package and upload it to SiteGround using File Manager. 
+		   The second step is to unzip the zip file using Putty. The third step is to export the local database and upload it to SiteGround. The fourth step is to create a database
+                   and user and import the dump file. The fifth step is to modify the database user, password, and database name in configuration.php.		   
+                   	   
+
+(Career/Employability/Learning Insights) I spent much time installing the development environment for Joomla. When encountering the problem, searching in SiteGround is helpful. And the file apache_error.log in C:\MAMP\logs\
+                                         is useful to provide the error information of MAMP. I think the method that searching for the problem in SiteGround and trying the solution is efficient.
