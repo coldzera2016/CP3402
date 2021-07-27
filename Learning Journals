@@ -60,3 +60,23 @@ Week5
 (Career/Employability/Learning Insights) I spent much time investigating the issue that the child theme doesn't take effect. I tried to create different child themes such as twentynineteen-child and twentytwentyone-child.
                                          I tried to create the child theme in different environments like VVV and "Local By Flywheel". Later, I found my mistake that I created a file named "function.php", other than "functions.php".
 					 So the file isn't called.
+					 
+					 
+
+Week7
+(Learning Activities) I learned to write PHP code to modify the website "The Advice Shop site".
+
+(Resources/Links) https://www.php.net/manual/en/
+                  https://www.linkedin.com/learning/learning-php-2015/php-the-big-picture?u=2223545
+		  https://www.w3schools.com/php/
+                  
+				  
+(Estimated Hours) 20 hours
+
+(Content Insights) I learned to write PHP code such as "echo", "if/else", "foreach", "function" and "include". I modified the login system, added register.php to save the username and password into
+                   the SQLite database. I created a new table "users" in advice.sqlite. When the user logins, he should input the username and password.
+          	   
+
+(Career/Employability/Learning Insights) I spent much time improving the login system. Writing/reading the database is a difficult point. I found the new username and password can't be inserted into
+                                         the database because I wrote the wrong SQL statement.
+					 
