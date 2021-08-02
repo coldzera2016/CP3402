@@ -80,3 +80,21 @@ Week7
 (Career/Employability/Learning Insights) I spent much time improving the login system. Writing/reading the database is a difficult point. I found the new username and password can't be inserted into
                                          the database because I wrote the wrong SQL statement.
 					 
+					 
+Week8
+(Learning Activities) I learned to develop custom themes.
+
+(Resources/Links) https://wp-content.co/wordpress-theme-development/
+                  https://websitesetup.org/wordpress-theme-development/
+		  https://www.linkedin.com/learning/wordpress-building-themes-from-scratch-using-underscores-2/welcome?u=2223545
+                  
+				  
+(Estimated Hours) 15 hours
+
+(Content Insights) I learned the steps to develop a custom theme. The files: index.php and style.css are the most important. And functions.php is useful. For example, when a navigation menu will be added,
+                   we should register it in functions.php. When I learned to create child themes, I ever looked at the functions.php. Template parts are helpful to reduce code repetition. Therefore, the header
+		   part and footer part in index.php can be placed into header.php and footer.php.
+
+(Career/Employability/Learning Insights) I found looking at the beginner's website is helpful. I will have an overall understanding of developing a custom theme. I spent some time watching videos. 
+                                         It's helpful to experiment in the local environment when watching videos.
+					 
