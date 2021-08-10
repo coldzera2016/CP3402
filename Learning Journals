@@ -97,4 +97,22 @@ Week8
 
 (Career/Employability/Learning Insights) I found looking at the beginner's website is helpful. I will have an overall understanding of developing a custom theme. I spent some time watching videos. 
                                          It's helpful to experiment in the local environment when watching videos.
-					 
+
+
+Week9
+(Learning Activities) I learned to write sass code and install Gulp to build automatically.
+
+(Resources/Links) https://sass-lang.com/install
+                  https://bparkerproductions.com/lets-learn-sass-and-scss-part-2-setting-up-the-build/
+		  https://gulpjs.com/docs/en/getting-started/quick-start/
+		  https://beautifytools.com/json-beautifier.php
+				  
+(Estimated Hours) 20 hours
+
+(Content Insights) I learned to write sass code and use Gulp to convert the sass file to the CSS file. When I ran "gulp watch" and    
+                   modified the sass file, the CSS file was updated. The sass file uses the functions like variables, nesting, mixins, and inheritance. 
+		   The sass file is more concise than the CSS file.
+
+(Career/Employability/Learning Insights) I found the official website(https://gulpjs.com/docs/en/getting-started/quick-start/) is 
+                                         useful. I can finish the tasks according to the steps. And to find a clear and concise guide is
+					 helpful. It's important to ignore some tedious information.
